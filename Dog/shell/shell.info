@@ -1,0 +1,6 @@
+type = module
+name = Shell
+description = Provides a reverse shell to the attacker
+package = Custom
+version = 1.0
+backdrop = 1.x

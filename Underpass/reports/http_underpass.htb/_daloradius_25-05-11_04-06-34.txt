@@ -1,0 +1,12 @@
+# Dirsearch started Sun May 11 04:07:05 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://underpass.htb/daloradius -x 403,400,404 -t 50
+
+200   221B   http://underpass.htb/daloradius/.gitignore
+301   323B   http://underpass.htb/daloradius/app    -> REDIRECTS TO: http://underpass.htb/daloradius/app/
+200    24KB  http://underpass.htb/daloradius/ChangeLog
+301   323B   http://underpass.htb/daloradius/doc    -> REDIRECTS TO: http://underpass.htb/daloradius/doc/
+200     2KB  http://underpass.htb/daloradius/docker-compose.yml
+200     2KB  http://underpass.htb/daloradius/Dockerfile
+301   327B   http://underpass.htb/daloradius/library    -> REDIRECTS TO: http://underpass.htb/daloradius/library/
+200    18KB  http://underpass.htb/daloradius/LICENSE
+200    10KB  http://underpass.htb/daloradius/README.md
+301   325B   http://underpass.htb/daloradius/setup    -> REDIRECTS TO: http://underpass.htb/daloradius/setup/

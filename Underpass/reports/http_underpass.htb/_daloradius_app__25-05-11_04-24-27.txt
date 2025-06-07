@@ -1,0 +1,6 @@
+# Dirsearch started Sun May 11 04:24:58 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://underpass.htb/daloradius/app/ -x 403,400,404 -t 50
+
+301   330B   http://underpass.htb/daloradius/app/common    -> REDIRECTS TO: http://underpass.htb/daloradius/app/common/
+301   329B   http://underpass.htb/daloradius/app/users    -> REDIRECTS TO: http://underpass.htb/daloradius/app/users/
+302     0B   http://underpass.htb/daloradius/app/users/    -> REDIRECTS TO: home-main.php
+200     2KB  http://underpass.htb/daloradius/app/users/login.php
