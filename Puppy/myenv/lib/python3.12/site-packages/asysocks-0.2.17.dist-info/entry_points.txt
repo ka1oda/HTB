@@ -1,0 +1,6 @@
+[console_scripts]
+asysocks-brute = asysocks.examples.socksbrute:main
+asysocks-portscan = asysocks.examples.socksportscan:main
+asysocks-proxy = asysocks.examples.socksproxy:main
+asysocks-sec = asysocks.examples.sockssec:main
+asysocks-tunnel = asysocks.examples.sockstunnel:main

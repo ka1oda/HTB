@@ -1,0 +1,3 @@
+[console_scripts]
+msldapbad = msldap.examples.msldapclient:main
+msldapbad-bloodhound = msldap.examples.msldapbloodhound:main
