@@ -32,3 +32,25 @@ Host script results:
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 # Nmap done at Thu Jul 31 09:49:08 2025 -- 1 IP address (1 host up) scanned in 54.29 seconds
+
+
+smbmap -H DC.VOLEUR.HTB -u ryan.naylor -p 'HollowOct31Nyt' -k
+
+/usr/lib/python3/dist-packages/smbmap/smbmap.py:441: SyntaxWarning: invalid escape sequence '\p'
+  stringbinding = 'ncacn_np:%s[\pipe\svcctl]' % remoteName
+
+    ________  ___      ___  _______   ___      ___       __         _______
+   /"       )|"  \    /"  ||   _  "\ |"  \    /"  |     /""\       |   __ "\
+  (:   \___/  \   \  //   |(. |_)  :) \   \  //   |    /    \      (. |__) :)
+   \___  \    /\  \/.    ||:     \/   /\   \/.    |   /' /\  \     |:  ____/
+    __/  \   |: \.        |(|  _  \  |: \.        |  //  __'  \    (|  /
+   /" \   :) |.  \    /:  ||: |_)  :)|.  \    /:  | /   /  \   \  /|__/ \
+  (_______/  |___|\__/|___|(_______/ |___|\__/|___|(___/    \___)(_______)
+-----------------------------------------------------------------------------
+SMBMap - Samba Share Enumerator v1.10.4 | Shawn Evans - ShawnDEvans@gmail.com<mailto:ShawnDEvans@gmail.com>
+                     https://github.com/ShawnDEvans/smbmap
+
+[*] Detected 1 hosts serving SMB                                                                                                  
+[!] Authentication error on 10.10.11.76 [Errno Connection error (:88)] [Errno -2] Name or service not known                  
+[*] Established 1 SMB connections(s) and 0 authenticated session(s)
+[*] Closed 1 connections
