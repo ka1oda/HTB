@@ -1,0 +1,27 @@
+# Nmap 7.94SVN scan initiated Tue Feb 10 02:50:25 2026 as: nmap -A -Pn -sCVU -o airtouch.txt AirTouch.htb
+Nmap scan report for AirTouch.htb (10.129.244.98)
+Host is up (0.033s latency).
+Not shown: 997 closed udp ports (port-unreach)
+PORT    STATE         SERVICE VERSION
+37/udp  open|filtered time
+68/udp  open|filtered dhcpc
+161/udp open          snmp    SNMPv1 server; net-snmp SNMPv3 server (public)
+| snmp-info: 
+|   enterprise: net-snmp
+|   engineIDFormat: unknown
+|   engineIDData: fe0d6017c5ef8a6900000000
+|   snmpEngineBoots: 1
+|_  snmpEngineTime: 28m10s
+| snmp-sysdescr: "The default consultant password is: RxBlZhLmOkacNWScmZ6D (change it after use it)"
+|_  System uptime: 28m10.45s (169045 timeticks)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+Service Info: Host: Consultant
+
+TRACEROUTE (using port 8193/udp)
+HOP RTT      ADDRESS
+1   14.19 ms 10.10.14.1
+2   17.14 ms AirTouch.htb (10.129.244.98)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Feb 10 03:12:29 2026 -- 1 IP address (1 host up) scanned in 1323.90 seconds
