@@ -19,27 +19,27 @@ Personal collection of solved **Hack The Box** machines: notes, enumeration step
 
 | Machine | Key topics |
 |---|---|
-| AirTouch | |
-| CodePartTwo | |
-| Connected | |
-| Conversor | |
-| Cypher | |
-| DevHub | |
-| Dog | |
-| Enigma | |
-| EscapeTwo | |
-| ExpressWay | |
-| Fluffy | |
-| Gavel | |
-| Helix | |
-| Imagery | |
-| Nimbus | |
-| Nocturnal | |
+| AirTouch | Web enumeration, IoT/network device |
+| CodePartTwo | Web app, credential & database extraction |
+| Connected | Linux, misconfiguration abuse |
+| Conversor | Flask web app, server-side exploitation, reverse shell |
+| Cypher | Neo4j / Cypher injection, custom APOC extension |
+| DevHub | Web app, documented walkthrough |
+| Dog | Exposed Git repo, Backdrop CMS, PHP webshell |
+| Enigma | Web enumeration, privilege escalation |
+| EscapeTwo | Active Directory, AD CS, certificate abuse (PyWhisker) |
+| ExpressWay | IKE / IPsec VPN, PSK cracking |
+| Fluffy | Active Directory, AD CS (ESC), BloodHound |
+| Gavel | Web app, file/asset enumeration |
+| Helix | Web app, documented walkthrough |
+| Imagery | Web / image processing service |
+| Nimbus | Web enumeration, privilege escalation |
+| Nocturnal | Web CVE-2023-46818, credential cracking |
 | Planning (CVE-2024-9264) | Grafana RCE |
-| Previous | |
-| Puppy | |
-| Underpass | |
-| Voleur | |
+| Previous | Web app, parameter fuzzing |
+| Puppy | Active Directory, KeePass database cracking |
+| Underpass | SNMP / web enumeration, hash cracking |
+| Voleur | Active Directory, Kerberos (Kerberoasting), RunasCS |
 
 _Each folder contains the notes, scripts and steps used to solve the machine._
 
