@@ -8,11 +8,10 @@ Personal collection of solved **Hack The Box** machines: notes, enumeration step
 
 ## 👤 About me
 
-**Egor Bubnov** (`ka1oda`) — independent security researcher focused on penetration testing and information security management.
+**George** (`ka1oda`) — independent security researcher focused on penetration testing and information security management.
 
-- 🎓 **ISO/IEC 27001:2022 Lead Implementer** — TÜV AUSTRIA (2026, reg. no. TASC-T-20260710004)
 - 🧪 Regular practice on Hack The Box: web, Active Directory, Linux & Windows privilege escalation
-- 🔗 HTB profile: _add link here_
+- 🔗 HTB profile: _ka1oda_
 
 ---
 
@@ -22,14 +21,19 @@ Personal collection of solved **Hack The Box** machines: notes, enumeration step
 |---|---|
 | AirTouch | |
 | CodePartTwo | |
+| Connected | |
 | Conversor | |
 | Cypher | |
+| DevHub | |
 | Dog | |
+| Enigma | |
 | EscapeTwo | |
 | ExpressWay | |
 | Fluffy | |
 | Gavel | |
+| Helix | |
 | Imagery | |
+| Nimbus | |
 | Nocturnal | |
 | Planning (CVE-2024-9264) | Grafana RCE |
 | Previous | |
