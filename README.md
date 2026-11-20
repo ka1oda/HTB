@@ -8,7 +8,7 @@ Personal collection of solved **Hack The Box** machines: notes, enumeration step
 
 ## 👤 About me
 
-**George** (`ka1oda`) — independent security researcher focused on penetration testing and information security management.
+(`ka1oda`) — independent security researcher focused on penetration testing and information security management.
 
 - 🧪 Regular practice on Hack The Box: web, Active Directory, Linux & Windows privilege escalation
 - 🔗 HTB profile: _ka1oda_
